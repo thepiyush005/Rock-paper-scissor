@@ -97,3 +97,4 @@ const gameOver = (playerOptions, movesLeft) => {
 playGame();
 }
 game();
+let age=20;
